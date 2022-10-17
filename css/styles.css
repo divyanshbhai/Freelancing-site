@@ -75,3 +75,12 @@ body{
   font-family: "Fuzzy Bubbles";
   font-size: 15px;
 }
+.messagebutton{
+  background: rgb(21, 215, 152);
+  border-radius: 11px;
+  padding: 20px 45px;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font: bold 26px / 1 "Fuzzy Bubbles", sans-serif; 
+  text-align: center;
+}
