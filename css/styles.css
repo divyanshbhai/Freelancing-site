@@ -1,0 +1,77 @@
+body{
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.topcontener{
+  background-color: #CDFCF6;
+}
+.heading{
+  margin-bottom: 0px;margin-top: 0px;
+  font-family: "Great Vibes";
+  font-size: 60px;
+  color: #425F57;
+}
+
+.subheading{
+  font-family: "Fuzzy Bubbles";
+  color: #749F82;
+}
+
+.middlecontener{
+  background-color:white;
+
+}
+
+.bottomcontener{
+  margin-top: 100px;
+  height: 200px;
+  background-color: #BCCEF8;
+}
+
+.cloudimage{
+  width: 180px;
+}
+.mountain{
+  width: 1000px;
+}
+.pro{
+  text-decoration: underline;
+}
+
+#cloud2{
+  margin-right: 500px;
+}
+#cloud1{
+  margin-left: 500px;
+}
+
+.face{
+  margin-top: 50px;
+  width: 150px;
+}
+
+.fontstyle{
+  font-family: "Fuzzy Bubbles";
+  color: #425F57;
+}
+
+.dottedline{
+  color: #D8D9CF;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.heading2{
+  font-family: "Fuzzy Bubbles";
+  color: #425F57;
+  font-size: 40px;
+}
+
+.link{
+  color: #749F82;
+  font-family: "Fuzzy Bubbles";
+  font-size: 15px;
+}
